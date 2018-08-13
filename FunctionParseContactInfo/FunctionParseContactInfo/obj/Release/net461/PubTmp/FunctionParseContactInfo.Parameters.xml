@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ORCTextParser" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\dbottjer\\source\\repos\\FunctionParseContactInfo\\FunctionParseContactInfo\\obj\\Release\\net461\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
