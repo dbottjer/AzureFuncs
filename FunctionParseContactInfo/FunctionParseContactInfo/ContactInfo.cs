@@ -28,10 +28,12 @@ namespace FunctionParseContactInfo
 
         public void ParseJSON(Region r)
         {
+            // Each region contains one of more lines.
             foreach (Line l in r.lines)
             {
                 var sb = new StringBuilder();
 
+                // Create a string of all the words to parse.
                 foreach (Word w in l.words)
                 {
                     if (sb.Length == 0)
@@ -39,7 +41,7 @@ namespace FunctionParseContactInfo
                     else
                         sb.Append(" " + w.text);
                 }
-
+                // Attempts to identify the text and save if identified.  Ex: Name: Dennis Bottjer
                 Save(sb.ToString());
 
             }
@@ -53,6 +55,7 @@ namespace FunctionParseContactInfo
 
         private void Save(string input)
         {
+            // Does the text contain clues, such as "LLC" indicating it is a company name.
             if (IsMatch(input, companies))
                 Save("Company", input);
             else if (IsMatch(input, names))
