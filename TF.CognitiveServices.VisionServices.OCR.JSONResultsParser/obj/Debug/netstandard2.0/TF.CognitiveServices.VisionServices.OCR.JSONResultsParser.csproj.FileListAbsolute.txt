@@ -6,3 +6,12 @@ C:\Users\dbottjer\source\repos\FunctionParseContactInfo\TF.CognitiveServices.Vis
 C:\Users\dbottjer\source\repos\FunctionParseContactInfo\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\bin\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.pdb
 C:\Users\dbottjer\source\repos\FunctionParseContactInfo\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\obj\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.dll
 C:\Users\dbottjer\source\repos\FunctionParseContactInfo\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\obj\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.pdb
+C:\Users\dbottjer\source\repos\AzureFuncs\AzureFuncs\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\bin\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.deps.json
+C:\Users\dbottjer\source\repos\AzureFuncs\AzureFuncs\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\bin\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.dll
+C:\Users\dbottjer\source\repos\AzureFuncs\AzureFuncs\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\bin\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.pdb
+C:\Users\dbottjer\source\repos\AzureFuncs\AzureFuncs\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\obj\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csprojAssemblyReference.cache
+C:\Users\dbottjer\source\repos\AzureFuncs\AzureFuncs\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\obj\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj.CoreCompileInputs.cache
+C:\Users\dbottjer\source\repos\AzureFuncs\AzureFuncs\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\obj\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.AssemblyInfoInputs.cache
+C:\Users\dbottjer\source\repos\AzureFuncs\AzureFuncs\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\obj\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.AssemblyInfo.cs
+C:\Users\dbottjer\source\repos\AzureFuncs\AzureFuncs\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\obj\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.dll
+C:\Users\dbottjer\source\repos\AzureFuncs\AzureFuncs\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\obj\Debug\netstandard2.0\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.pdb
