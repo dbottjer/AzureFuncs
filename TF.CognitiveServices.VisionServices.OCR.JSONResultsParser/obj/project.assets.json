@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dbottjer\\source\\repos\\FunctionParseContactInfo\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj",
+      "projectUniqueName": "C:\\Users\\dbottjer\\source\\repos\\AzureFuncs\\AzureFuncs\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj",
       "projectName": "TF.CognitiveServices.VisionServices.OCR.JSONResultsParser",
-      "projectPath": "C:\\Users\\dbottjer\\source\\repos\\FunctionParseContactInfo\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj",
+      "projectPath": "C:\\Users\\dbottjer\\source\\repos\\AzureFuncs\\AzureFuncs\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj",
       "packagesPath": "C:\\Users\\dbottjer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dbottjer\\source\\repos\\FunctionParseContactInfo\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\obj\\",
+      "outputPath": "C:\\Users\\dbottjer\\source\\repos\\AzureFuncs\\AzureFuncs\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

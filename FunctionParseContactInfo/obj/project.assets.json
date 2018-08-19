@@ -4027,11 +4027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dbottjer\\source\\repos\\FunctionParseContactInfo\\FunctionParseContactInfo\\FunctionParseContactInfo.csproj",
+      "projectUniqueName": "C:\\Users\\dbottjer\\source\\repos\\AzureFuncs\\AzureFuncs\\FunctionParseContactInfo\\FunctionParseContactInfo.csproj",
       "projectName": "FunctionParseContactInfo",
-      "projectPath": "C:\\Users\\dbottjer\\source\\repos\\FunctionParseContactInfo\\FunctionParseContactInfo\\FunctionParseContactInfo.csproj",
+      "projectPath": "C:\\Users\\dbottjer\\source\\repos\\AzureFuncs\\AzureFuncs\\FunctionParseContactInfo\\FunctionParseContactInfo.csproj",
       "packagesPath": "C:\\Users\\dbottjer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dbottjer\\source\\repos\\FunctionParseContactInfo\\FunctionParseContactInfo\\obj\\",
+      "outputPath": "C:\\Users\\dbottjer\\source\\repos\\AzureFuncs\\AzureFuncs\\FunctionParseContactInfo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4050,8 +4050,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\dbottjer\\source\\repos\\FunctionParseContactInfo\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj": {
-              "projectPath": "C:\\Users\\dbottjer\\source\\repos\\FunctionParseContactInfo\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj"
+            "C:\\Users\\dbottjer\\source\\repos\\AzureFuncs\\AzureFuncs\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj": {
+              "projectPath": "C:\\Users\\dbottjer\\source\\repos\\AzureFuncs\\AzureFuncs\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj"
             }
           }
         }

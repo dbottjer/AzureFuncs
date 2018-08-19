@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionParseContactInfo", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TF.CognitiveServices.VisionServices.OCR.JSONResultsParser", "TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj", "{119687D0-A0F5-4328-89B3-54BACD899413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF.CognitiveServices.VisionServices.OCR.Tests", "TF.CognitiveServices.VisionServices.ORC.Tests\TF.CognitiveServices.VisionServices.OCR.Tests.csproj", "{414BC5E5-1BC6-4EC1-B1B1-A13A860E7849}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF.CognitiveServices.VisionServices.OCR.Tests", "TF.CognitiveServices.VisionServices.OCR.Tests\TF.CognitiveServices.VisionServices.OCR.Tests.csproj", "{414BC5E5-1BC6-4EC1-B1B1-A13A860E7849}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,20 +33,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FFC2CB29-8F4A-48BC-8D05-BA1AF3F81EA1}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://thrivefast.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = FunctionParseContactInfo\\FunctionParseContactInfo.csproj
-		SccProjectName1 = FunctionParseContactInfo
-		SccLocalPath1 = FunctionParseContactInfo
-		SccProjectUniqueName2 = TF.CognitiveServices.VisionServices.OCR.JSONResultsParser\\TF.CognitiveServices.VisionServices.OCR.JSONResultsParser.csproj
-		SccProjectName2 = TF.CognitiveServices.VisionServices.OCR.JSONResultsParser
-		SccLocalPath2 = TF.CognitiveServices.VisionServices.OCR.JSONResultsParser
-		SccProjectUniqueName3 = TF.CognitiveServices.VisionServices.ORC.Tests\\TF.CognitiveServices.VisionServices.OCR.Tests.csproj
-		SccProjectName3 = TF.CognitiveServices.VisionServices.ORC.Tests
-		SccLocalPath3 = TF.CognitiveServices.VisionServices.ORC.Tests
 	EndGlobalSection
 EndGlobal
